@@ -89,4 +89,14 @@ AI 챗봇을 통해 오행에 맞춰 구체적인 메뉴를 추천받을 수 있
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-<br>
+
+<br />
+
+## 팀원 소개
+|이름|역할|
+|:---|:---|
+|권현진|FrontEnd|
+|김재희|BackEnd|
+|마디나보누|FrontEnd|
+|방예진|BackEnd|
+|유서현|BackEnd, Infra|
