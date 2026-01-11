@@ -5,7 +5,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="./docs/banner.png" width="100%" />
+    <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2Fbd8231e1-f082-4120-ad5e-9c000885516a%2FIMG_7304.png/size/w=2000?exp=1768219337&sig=WhdTTlRB2VoxBbVw83S4szsJl3tUfxQ43tq4Rs3dRfo&id=2d25de76-f7fd-8038-a0ea-f1830dde219b&table=block" width="100%" />
   </p>
   
   **[🚀 서비스 바로가기](https://bapick.kr)** | **[📖 API 문서](https://bapick.duckdns.org/docs)** 
@@ -32,8 +32,9 @@ AI 챗봇을 통해 오행에 맞춰 구체적인 메뉴를 추천받을 수 있
 
 ### 📍 위치 기반 식당 추천
 메뉴를 결정한 이후 해당 메뉴를 판매하는 식당까지 바로 확인할 수 있습니다.
-- 현재 위치 근처 추천
-- 원하면 사용자가 설정한 다른 위치도 가능
+- 현재 위치 근처 추천이 기본, 원하면 사용자가 설정한 다른 위치도 가능
+- RAG 기반 LLM을 사용해 정확한 식당 정보 제공
+  
 <div>
   <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2F2d29d68f-ac55-461f-8736-e0be9137fbb5%2FIMG_7323-modified.png/size/w=580?exp=1768218417&sig=CzwXtxawMbeeKcQYitmGxHiYG00vySAjRHp0dyx7X0Q&id=2d25de76-f7fd-8078-ab05-e2ac79a37256&table=block" width="300"> 
 </div>
@@ -55,7 +56,7 @@ AI 챗봇을 통해 오행에 맞춰 구체적인 메뉴를 추천받을 수 있
 
 ## 시스템 아키텍처
   <p align="center">
-    <img src="./docs/banner.png" width="100%" />
+    <img src="./architecture.png" width="100%" />
   </p>
 <br>
 
@@ -75,6 +76,10 @@ AI 챗봇을 통해 오행에 맞춰 구체적인 메뉴를 추천받을 수 있
 ![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+
+### Data Collection
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Database & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
