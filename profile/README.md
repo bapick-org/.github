@@ -5,7 +5,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2Fbd8231e1-f082-4120-ad5e-9c000885516a%2FIMG_7304.png/size/w=2000?exp=1768219337&sig=WhdTTlRB2VoxBbVw83S4szsJl3tUfxQ43tq4Rs3dRfo&id=2d25de76-f7fd-8038-a0ea-f1830dde219b&table=block" width="100%" />
+    <img width="960" height="540" alt="main" src="https://github.com/user-attachments/assets/3ae20c0e-4ce6-44a2-8f50-4c32221b5b3c" />
   </p>
   
   **[🚀 서비스 바로가기](https://bapick.kr)** | **[📖 API 문서](https://bapick.duckdns.org/docs)** 
@@ -19,38 +19,36 @@
 생년월일시를 기반으로 오행을 계산하고 오늘의 기운을 더해, 매일매일 달라지는 운세를 확인할 수 있습니다.
 부족한 기운은 채우고, 과한 기운은 눌러주는 음식까지 함께 확인할 수 있습니다. 
 <div>
-  <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2F628f764f-772e-4c45-8f15-fc7b0ddb84e0%2FIMG_7321-modified.png/size/w=580?exp=1768218014&sig=3zkopsHFOTOec5z-ksVGLq27cvxYkUDMCwWEXRWvQRU&id=2d25de76-f7fd-8028-bb53-e37477cb92a8&table=block" width="300"> 
+  <img width="300" height="1260" alt="IMG_7321-modified" src="https://github.com/user-attachments/assets/69203d7b-2b38-477f-813c-d295c238c92d" />
 </div>
 <br>
 
 ### 💬 AI 채팅으로 메뉴 선택
 AI 챗봇을 통해 오행에 맞춰 구체적인 메뉴를 추천받을 수 있습니다.
 <div>
-  <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2F62cb4b76-20ee-46c7-9951-4b79c16d16ab%2FIMG_7322-modified.png/size/w=580?exp=1768218269&sig=OACYzj02F1eZYGvssUFvDV8k8Wdx_l_NPri_VbQVBJQ&id=2d25de76-f7fd-8070-9ab8-ca02733a062d&table=block" width="300"> 
+  <img width="300" height="1257" alt="IMG_7322-modified" src="https://github.com/user-attachments/assets/d4b70d83-0b19-4991-9673-21907f4571ad" />
 </div>
 <br>
 
 ### 📍 위치 기반 식당 추천
 메뉴를 결정한 이후 해당 메뉴를 판매하는 식당까지 바로 확인할 수 있습니다.
-- 현재 위치 근처 추천이 기본, 원하면 사용자가 설정한 다른 위치도 가능
-- RAG 기반 LLM을 사용해 정확한 식당 정보 제공
-  
+- 현재 위치 근처 추천이 기본이며, 사용자가 설정한 다른 위치도 가능
 <div>
-  <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2F2d29d68f-ac55-461f-8736-e0be9137fbb5%2FIMG_7323-modified.png/size/w=580?exp=1768218417&sig=CzwXtxawMbeeKcQYitmGxHiYG00vySAjRHp0dyx7X0Q&id=2d25de76-f7fd-8078-ab05-e2ac79a37256&table=block" width="300"> 
+  <img width="300" height="1250" alt="IMG_7323-modified" src="https://github.com/user-attachments/assets/04c8102f-290e-4385-85bf-7d6c0bb85307" />
 </div>
 <br>
 
 ### ⭐ 식당 정보 확인 & 스크랩
 마음에 드는 식당 정보를 바로 확인하고, 스크랩 기능을 통해 나중에 다시 찾아볼 수 있습니다.
 <div>
-  <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2Fb08aa3a6-08db-45a4-9818-873478f25f4b%2FIMG_7325-modified.png/size/w=580?exp=1768218506&sig=uIsmbL3vSNslkl0Zy2jdjzaZkYYo8aMRCTbOCabGM_E&id=2d25de76-f7fd-8075-b066-f85325975e7e&table=block" width="300"> 
+  <img width="575" height="1255" alt="IMG_7325-modified" src="https://github.com/user-attachments/assets/8332c645-1c45-4788-9909-4bee1805482d" />
 </div>
 <br>
 
 ### 👥 단체 채팅
-친구나 동료들과 함께 채팅하며 메뉴와 식당을 한 번에 해결할 수 있습니다.
+여러 명의 사용자와 ai가 함께 채팅할 수 있습니다. 이를 통해 친구나 동료들과 함께 채팅하며 메뉴와 식당을 한 번에 해결할 수 있습니다.
 <div>
-  <img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fbdb5de76-f7fd-8180-b313-0003d1a4bea2%2F2585d36f-ae2f-4e13-a6e4-9fe6e86128d1%2FIMG_7324-modified.png/size/w=480?exp=1768218672&sig=YW3RNCQpKyGevwgIu5vQfKD3lGGsPC6T9Eyxuj72L-0&id=2d25de76-f7fd-80d1-abb4-c3058a50b246&table=block" width="300">
+ <img width="561" height="1215" alt="IMG_7324-modified" src="https://github.com/user-attachments/assets/f83b73b5-55c4-4e31-be6a-4f03e1597fe8" />
 </div>
 <br>
 
