@@ -1,8 +1,7 @@
-# BaPick - 운세 기반 맛집 추천 AI 채팅 플랫폼 🍀
-
+# Bapick - 운세 기반 맛집 추천 AI 채팅 플랫폼 🍀
 > '오늘 뭐 먹지?' 매일 반복되는 고민, 이제 운세로 **재미있게, 나에게 딱 맞게** 해결하세요.  
-> 운세와 취향을 바탕으로 메뉴부터 식당까지 Pick해드려요!
-
+> 오늘의 운세와 식성을 바탕으로 메뉴부터 식당까지 Pick해드려요!
+> 
 <div align="center">
   <p align="center">
     <img width="960" height="540" alt="main" src="https://github.com/user-attachments/assets/3ae20c0e-4ce6-44a2-8f50-4c32221b5b3c" />
@@ -16,7 +15,7 @@
 
 ## 주요 기능
 ### 🔮 운세 기반 메뉴 추천
-생년월일시를 기반으로 오행을 계산하고 오늘의 기운을 더해, 매일매일 달라지는 운세를 확인할 수 있습니다.
+생년월일시를 기반으로 계산한 오행에 오늘의 기운을 더해, 매일매일 달라지는 운세를 확인할 수 있습니다.
 부족한 기운은 채우고, 과한 기운은 눌러주는 음식까지 함께 확인할 수 있습니다. 
 <div>
   <img width="300" height="1260" alt="IMG_7321-modified" src="https://github.com/user-attachments/assets/69203d7b-2b38-477f-813c-d295c238c92d" />
@@ -41,14 +40,14 @@ AI 챗봇을 통해 오행에 맞춰 구체적인 메뉴를 추천받을 수 있
 ### ⭐ 식당 정보 확인 & 스크랩
 마음에 드는 식당 정보를 바로 확인하고, 스크랩 기능을 통해 나중에 다시 찾아볼 수 있습니다.
 <div>
-  <img width="575" height="1255" alt="IMG_7325-modified" src="https://github.com/user-attachments/assets/8332c645-1c45-4788-9909-4bee1805482d" />
+  <img width="300" height="1255" alt="IMG_7325-modified" src="https://github.com/user-attachments/assets/8332c645-1c45-4788-9909-4bee1805482d" />
 </div>
 <br>
 
 ### 👥 단체 채팅
 여러 명의 사용자와 ai가 함께 채팅할 수 있습니다. 이를 통해 친구나 동료들과 함께 채팅하며 메뉴와 식당을 한 번에 해결할 수 있습니다.
 <div>
- <img width="561" height="1215" alt="IMG_7324-modified" src="https://github.com/user-attachments/assets/f83b73b5-55c4-4e31-be6a-4f03e1597fe8" />
+ <img width="300" height="1215" alt="IMG_7324-modified" src="https://github.com/user-attachments/assets/f83b73b5-55c4-4e31-be6a-4f03e1597fe8" />
 </div>
 <br>
 
@@ -59,6 +58,7 @@ AI 챗봇을 통해 오행에 맞춰 구체적인 메뉴를 추천받을 수 있
 <br>
 
 ## 기술 스택
+
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
